@@ -1,2 +1,5 @@
 # hello-world
-default repositery set up right after creating an account on GuitHub
+Default repositery set up right after creating an account on GuitHub.
+
+That is just a test.
+----------
